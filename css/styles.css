@@ -2,7 +2,17 @@
     padding: 0;
     margin: 0;
 }
-.barra_navegacion{
+.barra_navegacion, .footer{
     background-color: #600000;
 
+}
+/*  SECCION ICONOS*/
+.icono-luna, .icono{
+    font-size: 5em;
+}
+.icono{
+    color: #ffff;
+}
+.icono:hover{
+    color: black;
 }
