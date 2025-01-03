@@ -3,7 +3,7 @@
     margin: 0;
 }
 .barra_navegacion, .footer{
-    background-color: #600000;
+    background-color: #FEFF4F;
 
 }
 /*  SECCION ICONOS*/
@@ -11,8 +11,12 @@
     font-size: 5em;
 }
 .icono{
-    color: #ffff;
+    color: black;
 }
 .icono:hover{
-    color: black;
+    color: white;
+}
+
+.logo_combosj{
+    border-radius: 1em;
 }
